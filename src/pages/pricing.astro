@@ -6,14 +6,14 @@ import Pricing from "@components/pricing.astro";
 
 const pricing = [
   {
-    name: "Personal",
-    price: "Free",
+    name: "Plano Prata",
+    price: "Gratuito",
     popular: false,
     features: [
       "Lifetime free",
       "Up to 3 users",
       "Unlimited Pages",
-      "Astro Sub domain",
+      "Agenda Sub domain",
       "Basic Integrations",
       "Community Support",
     ],
@@ -23,12 +23,12 @@ const pricing = [
     },
   },
   {
-    name: "Startup",
+    name: "Plano Ouro",
     price: {
-      monthly: "$19",
-      annual: "$16",
+      monthly: "R$47",
+      annual: "R$46",
       discount: "10%",
-      original: "$24",
+      original: "R$44",
     },
     popular: true,
     features: [
@@ -45,8 +45,8 @@ const pricing = [
     },
   },
   {
-    name: "Enterprise",
-    price: "Custom",
+    name: "Plano Diamante",
+    price: "Específico",
     popular: false,
     features: [
       "All Pro Features",
@@ -67,9 +67,9 @@ const pricing = [
 <Layout title="Pricing">
   <Container>
     <Sectionhead>
-      <Fragment slot="title">Pricing</Fragment>
+      <Fragment slot="title">Preços</Fragment>
       <Fragment slot="desc"
-        >Simple & Predictable pricing. No Surprises.</Fragment
+        >Preços simples e previsíveis. Sem surpresas.</Fragment
       >
     </Sectionhead>
 

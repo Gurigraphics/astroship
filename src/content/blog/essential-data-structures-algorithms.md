@@ -1,7 +1,7 @@
 ---
 draft: false
-title: " Introduction to the Essential Data Structures & Algorithms"
-snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+title: "Síndrome de Burnout: esgotamento para além da vida laboral"
+snippet: "O esgotamento físico e emocional em função do trabalho tem se tornado uma situação cada vez mais comum dentro das empresas. Seus investigadores têm sustentado que burnout se desenvolve como uma resposta aos estressores crônicos presentes nas organizações de trabalho. Objetiva-se fazer uma análise a respeito da..."
 image: {
     src: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240",
     alt: "data structures & algorithms"
